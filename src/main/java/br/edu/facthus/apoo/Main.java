@@ -2,17 +2,19 @@ package br.edu.facthus.apoo;
 
 public class Main {
 
-	public static void exercicioGrupo0() {
-		System.out.println("Fulano de Tal");
-		System.out.println("Cicrano de Tal");
+	public static void grupoTrabalhoApooGrupo03() {
+		System.out.println("Thiago Nogueira Pires");
+		System.out.println("Pedro Paulo Nascimento Pessoa");
+		System.out.println("Claudionor Freitas de Sousa");
+		System.out.println("Bruna Moura Costa");
+		
 	}
 
-	// TODO: acrescentar os outros grupos
-
 	public static void main(String[] args) {
-		System.out.println("Projeto APOO - 2021/01");
-
-		exercicioGrupo0();
+		
+		System.out.println("Trabalho de Análise e projeto orientado ao objeto");
+		System.out.println("-------< Grupo 03 >-------\n");
+		grupoTrabalhoApooGrupo03();
 	}
 
 }
