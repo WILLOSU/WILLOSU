@@ -2,7 +2,11 @@ package br.edu.facthus.apoo;
 
 public class Main {
 
-	public static void exercicioGrupo5() {
+	public static void exercicioGrupo08() {
+		System.out.println("OLiver Andrade dos Santos");
+  }
+
+  public static void exercicioGrupo5() {
 		System.out.println("Breno Oliveira");
 		System.out.println("Kátia Alves");
 		System.out.println("Marcos Paulo");
@@ -46,5 +50,7 @@ public class Main {
 		exercicioGrupo04();
     
  		exercicioGrupo5();
+    
+ 		exercicioGrupo08();
 	}
 }
