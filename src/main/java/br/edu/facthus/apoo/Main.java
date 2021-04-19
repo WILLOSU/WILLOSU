@@ -27,23 +27,24 @@ public class Main {
 		System.out.println("RANIELLE DA SILVA SANTOS");
 	}
 	
-	public static void exercicioGrupo1() {
-		System.out.println("Grupo 1:");
-		System.out.println("Cleiton");
-		System.out.println("Giulia Victoria Oliveira Crozara");
-		System.out.println("João Pedro Oliveira da Silva");
-		System.out.println("Mário Eduardo Gonçalves Fortes Filho");
+	public static void exercicioGrupo2() {
+		System.out.println("Grupo 2:");
+		System.out.println("João Ian Cruz Cardoso");
+		System.out.println("Douglas Nunes");
+		System.out.println("Wellignton Cardosos Ingles");
+		System.out.println("Guilherme");
 	}
 
 	public static void main(String[] args) {
-		System.out.println("Projeto APOO - 2021/01");
+    System.out.println("Projeto APOO - 2021/01");
+
+ 		exercicioGrupo0();
+		exercicioGrupo1();
+		exercicioGrupo2();
 
     System.out.println("Trabalho de Análise e projeto orientado ao objeto");
 		System.out.println("-------< Grupo 03 >-------\n");
 		grupoTrabalhoApooGrupo03();
-
-		exercicioGrupo0();
-		exercicioGrupo1();
     
     System.out.println("Projeto POO - 12/04/2021");
 		System.out.println(">> GRUPO 04 <<");
@@ -52,5 +53,6 @@ public class Main {
  		exercicioGrupo5();
     
  		exercicioGrupo08();
+
 	}
 }
