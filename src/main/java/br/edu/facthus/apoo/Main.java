@@ -2,12 +2,19 @@ package br.edu.facthus.apoo;
 
 public class Main {
 
+	public static void exercicioGrupo5() {
+		System.out.println("Breno Oliveira");
+		System.out.println("Kátia Alves");
+		System.out.println("Marcos Paulo");
+	}
+
 	public static void grupoTrabalhoApooGrupo03() {
 		System.out.println("Thiago Nogueira Pires");
 		System.out.println("Pedro Paulo Nascimento Pessoa");
 		System.out.println("Claudionor Freitas de Sousa");
 		System.out.println("Bruna Moura Costa");
   }
+
 
 	public static void exercicioGrupo04() {
 		System.out.println("IURI DE OLIVEIRA");
@@ -37,5 +44,7 @@ public class Main {
     System.out.println("Projeto POO - 12/04/2021");
 		System.out.println(">> GRUPO 04 <<");
 		exercicioGrupo04();
+    
+ 		exercicioGrupo5();
 	}
 }
