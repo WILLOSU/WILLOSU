@@ -2,6 +2,13 @@ package br.edu.facthus.apoo;
 
 public class Main {
 
+	public static void grupoTrabalhoApooGrupo03() {
+		System.out.println("Thiago Nogueira Pires");
+		System.out.println("Pedro Paulo Nascimento Pessoa");
+		System.out.println("Claudionor Freitas de Sousa");
+		System.out.println("Bruna Moura Costa");
+  }
+
 	public static void exercicioGrupo04() {
 		System.out.println("IURI DE OLIVEIRA");
 		System.out.println("ALISON ADRIAO CERVO");
@@ -19,6 +26,10 @@ public class Main {
 
 	public static void main(String[] args) {
 		System.out.println("Projeto APOO - 2021/01");
+
+    System.out.println("Trabalho de Análise e projeto orientado ao objeto");
+		System.out.println("-------< Grupo 03 >-------\n");
+		grupoTrabalhoApooGrupo03();
 
 		exercicioGrupo0();
 		exercicioGrupo1();
