@@ -46,6 +46,10 @@ public class Main {
 		System.out.println("Igor Sampaio Ribeiro");
 		System.out.println("Thyago Mariano de Oliveira Pontes");
 	}
+	
+	public static void exercicioGrupo09() {
+		System.out.println("Luiz Henriique dos Santos");
+	}
 
 	public static void main(String[] args) {
 		System.out.println("Projeto APOO - 2021/01");
@@ -67,6 +71,8 @@ public class Main {
 		exercicioGrupo7();
 
 		exercicioGrupo08();
+		
+		exercicioGrupo09();
 
 	}
 }
