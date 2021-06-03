@@ -43,5 +43,6 @@ public class MainController {
 	private void cadastroInquilinos() {
 		mostraJanela("inquilinos.fxml", "Cadastro de Inquilinos");
 	}
+	//
 	
 }
